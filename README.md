@@ -1,14 +1,6 @@
-<h1 align="center"><b>Hola , soy Leandro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi, I'm Leandro.</h1>
 <p align="center">
-  <a href="https://github.com/LeandroBenjaminL?tab=repositories"><img src=""></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1600&pause=1000&width=1000&height=150&lines=Backend+%26+Cloud+Engineer;Automation+%26+Infrastructure+Specialist;Data+Infrastructure+Engineer;API+%26+Cloud+Services+Developer;Data+%26+Automation+Master&center=true" alt="Typing SVG" />
+  </a>
 </p>
-
-
-<br>
-
-
-
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" ancho = 50px></picture> **Acerca de mí**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
