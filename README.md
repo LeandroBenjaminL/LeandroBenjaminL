@@ -9,7 +9,7 @@
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Typing SVG" />
   </a>
 </p>
-<h3> Python developer in training || Building backend and cloud solutions </h3>
+<h2> Python developer in training || Building backend and cloud solutions </h2>
   
   - I am passionate about backend development with Python.
   I love learning technologies that optimize processes and connect data with real solutions.
@@ -21,7 +21,24 @@
 
 <a href="https://mail.google.com/mail/u/1/#inbox"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Leandro Lopez</a>
 
-<hr>
+## :computer: Projects 
+
+<a href="https://github.com/Nneji123/Website-Blocker">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
+
+</a>  
+
+<a href="https://github.com/Nneji123/Alien-Shooter">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+
+</a> 
+
 
 ## 🚀💻 Technologies & Tools
 
@@ -71,13 +88,7 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 &nbsp;
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 &nbsp;
 <br>
 
