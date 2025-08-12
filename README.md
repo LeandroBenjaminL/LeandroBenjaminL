@@ -9,12 +9,12 @@
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Typing SVG" />
   </a>
 </p>
-<h3> Backend & Cloud Solutions Engineer || Data Infrastructure Engineer </h3>
+<h3> Python developer in training || Building backend and cloud solutions </h3>
   
-  - Working on **Current down** project using <span><img width="40" height="40" aling="center" alt="image" src="https://github.com/user-attachments/assets/dab6eb8a-a6e4-450b-bb14-208316cf8f03"/>
-></span>
-  - Exploring <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" align="center"/></span> and <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="30" align="center" /></span>.
-
+  - I am passionate about backend development with Python.
+  I love learning technologies that optimize processes and connect data with real solutions.
+  Currently focused on projects that integrate APIs, automation, and data storage
+ 
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/leandro-lopez-03506037a/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Leandro Lopez</a>
@@ -65,14 +65,6 @@
 &nbsp;
 <br>
 
-### <u> Currently I'm learning: </u>
-<br>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-&nbsp;
-<br>
 
 ### <u> In future, I will learn: </u>
 <br>
