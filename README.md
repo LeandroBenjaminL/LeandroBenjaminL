@@ -39,11 +39,17 @@
 
 ## 🗂️ Projects
 
+<a href="https://github.com/LeandroBenjaminL/crypto-tracker">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeandroBenjaminL&repo=crypto-tracker&theme=tokyonight" />
+</a>
+<a href="https://github.com/LeandroBenjaminL/data-analyst-ecosystem">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeandroBenjaminL&repo=data-analyst-ecosystem&theme=tokyonight" />
+</a>
+
+<br>
+
 <a href="https://github.com/LeandroBenjaminL/Ahorcado-y-Torneo-Python">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeandroBenjaminL&repo=Ahorcado-y-Torneo-Python&theme=tokyonight" />
-</a>
-<a href="https://github.com/LeandroBenjaminL/data-science-portfolio-2025">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeandroBenjaminL&repo=data-science-portfolio-2025&theme=tokyonight" />
 </a>
 
 ---
