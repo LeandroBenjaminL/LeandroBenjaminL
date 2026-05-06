@@ -10,7 +10,7 @@
 
 <h2>Python developer in training — backend, data pipelines and AI automation</h2>
 
-- 2nd year student of **Analista Programador Universitario (APU)** at UNLP, La Plata.
+- 2nd year student of <b>Analista Programador Universitario (APU)</b> at UNLP, La Plata.
 - Focused on backend development, data infrastructure and cloud-connected solutions.
 - Building experience with AI agents, automation workflows, MCP integrations and modern tooling.
 - Currently working on projects that combine Python, SQL, APIs and cloud services.
@@ -54,7 +54,7 @@
 
 ---
 
-## 🚀 Technologies & Tools
+## 🛠️ Technologies & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -63,23 +63,23 @@
 &nbsp;
 ![Pascal](https://img.shields.io/badge/pascal-%23007ACC.svg?style=for-the-badge&logo=lazarus&logoColor=white)
 
-### Python Libraries
+### Data & ML
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 &nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 &nbsp;
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Backend & Databases
+### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+&nbsp;
+![REST APIs](https://img.shields.io/badge/REST_APIs-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 &nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 &nbsp;
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Cloud & Infrastructure
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 &nbsp;
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
@@ -87,61 +87,50 @@
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23FF9900.svg?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ### AI & Automation
-![Claude](https://img.shields.io/badge/Claude_AI-%23CC785C.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-&nbsp;
 ![MCP](https://img.shields.io/badge/MCP_Integrations-%236366F1.svg?style=for-the-badge&logo=probot&logoColor=white)
 &nbsp;
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-%2310B981.svg?style=for-the-badge&logo=buffer&logoColor=white)
 &nbsp;
 ![Automation](https://img.shields.io/badge/AI_Agents_%26_Workflows-%23F59E0B.svg?style=for-the-badge&logo=zapier&logoColor=white)
 
-### Version Control & Tools
+### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 &nbsp;
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 &nbsp;
-![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+&nbsp;
+![Linux CLI](https://img.shields.io/badge/Linux_CLI-%23FCC624.svg?style=for-the-badge&logo=gnubash&logoColor=black)
 
-### Operating Systems
+### OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 &nbsp;
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 &nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Learning
-![PostgreSQL](https://img.shields.io/badge/postgresql_(learning)-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB_(learning)-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-&nbsp;
-![Docker](https://img.shields.io/badge/docker_(learning)-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-&nbsp;
-![Airflow](https://img.shields.io/badge/Apache%20Airflow_(learning)-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes_(learning)-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-&nbsp;
-![Terraform](https://img.shields.io/badge/Terraform_(learning)-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI_API_(learning)-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## 🧠 Other Skills
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-&nbsp;
+### Concepts
 ![Clean Code](https://img.shields.io/badge/Clean_Code_%26_SOLID-%234B5563.svg?style=for-the-badge&logo=codereview&logoColor=white)
 &nbsp;
 ![ETL](https://img.shields.io/badge/Data_Pipelines_%26_ETL-%230EA5E9.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+### Currently Learning
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 &nbsp;
-![Linux CLI](https://img.shields.io/badge/Linux_CLI-%23FCC624.svg?style=for-the-badge&logo=gnubash&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+&nbsp;
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI_API-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ### 🎓 Education
-**Analista Programador Universitario (APU)** — UNLP, La Plata  
+<b>Analista Programador Universitario (APU)</b> — UNLP, La Plata  
 Currently in 2nd year — focused on algorithms, data structures, backend development and software engineering fundamentals.
