@@ -8,22 +8,13 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
-<h2>Python developer in training — backend, data pipelines and AI automation</h2>
+## About me
 
-- 2nd year student of <b>Analista Programador Universitario (APU)</b> at UNLP, La Plata.
-- Focused on backend development, data infrastructure and cloud-connected solutions.
-- Building experience with AI agents, automation workflows, MCP integrations and modern tooling.
-- Currently working on projects that combine Python, SQL, APIs and cloud services.
+Python developer from **Berazategui, Argentina**. 2nd year **Analista Programador Universitario (APU)** at UNLP, La Plata.
 
-<h3>Connect with me:</h3>
+I build backend systems, data pipelines, and automation tools. Currently exploring AI agent ecosystems, cloud infrastructure, and containerized deployments.
 
-<a href="https://www.linkedin.com/in/leandro-lopez-03506037a/">
-  <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Leandro Lopez
-</a>
-&nbsp;
-<a href="https://mail.google.com/mail/u/1/#inbox">
-  <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Leandro Lopez
-</a>
+When I'm not coding, you'll find me playing football ⚽ or watching sports.
 
 ---
 
@@ -37,100 +28,68 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+### Core
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Frontend & Viz
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Exploring
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white)
+
+---
+
 ## 🗂️ Projects
 
 <a href="https://github.com/LeandroBenjaminL/crypto-tracker">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeandroBenjaminL&repo=crypto-tracker&theme=tokyonight" />
 </a>
-<a href="https://github.com/LeandroBenjaminL/data-analyst-ecosystem">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeandroBenjaminL&repo=data-analyst-ecosystem&theme=tokyonight" />
+<a href="https://github.com/LeandroBenjaminL/datlas">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeandroBenjaminL&repo=datlas&theme=tokyonight" />
 </a>
 
 <br>
 
-<a href="https://github.com/LeandroBenjaminL/Ahorcado-y-Torneo-Python">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeandroBenjaminL&repo=Ahorcado-y-Torneo-Python&theme=tokyonight" />
+<a href="https://github.com/LeandroBenjaminL/lend-ai">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeandroBenjaminL&repo=lend-ai&theme=tokyonight" />
+</a>
+<a href="https://github.com/LeandroBenjaminL/portfolio">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LeandroBenjaminL&repo=portfolio&theme=tokyonight" />
 </a>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🎓 Education
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-&nbsp;
-![Pascal](https://img.shields.io/badge/pascal-%23007ACC.svg?style=for-the-badge&logo=lazarus&logoColor=white)
-
-### Data & ML
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-&nbsp;
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-&nbsp;
-![REST APIs](https://img.shields.io/badge/REST_APIs-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-&nbsp;
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-&nbsp;
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
-&nbsp;
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23FF9900.svg?style=for-the-badge&logo=amazons3&logoColor=white)
-
-### AI & Automation
-![MCP](https://img.shields.io/badge/MCP_Integrations-%236366F1.svg?style=for-the-badge&logo=probot&logoColor=white)
-&nbsp;
-![RAG](https://img.shields.io/badge/RAG_Pipelines-%2310B981.svg?style=for-the-badge&logo=buffer&logoColor=white)
-&nbsp;
-![Automation](https://img.shields.io/badge/AI_Agents_%26_Workflows-%23F59E0B.svg?style=for-the-badge&logo=zapier&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-&nbsp;
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-&nbsp;
-![Linux CLI](https://img.shields.io/badge/Linux_CLI-%23FCC624.svg?style=for-the-badge&logo=gnubash&logoColor=black)
-
-### OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-&nbsp;
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Concepts
-![Clean Code](https://img.shields.io/badge/Clean_Code_%26_SOLID-%234B5563.svg?style=for-the-badge&logo=codereview&logoColor=white)
-&nbsp;
-![ETL](https://img.shields.io/badge/Data_Pipelines_%26_ETL-%230EA5E9.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-### Currently Learning
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-&nbsp;
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-&nbsp;
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI_API-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+**Analista Programador Universitario (APU)** — UNLP, La Plata  
+2nd year — algorithms, data structures, backend development, software engineering.
 
 ---
 
-### 🎓 Education
-<b>Analista Programador Universitario (APU)</b> — UNLP, La Plata  
-Currently in 2nd year — focused on algorithms, data structures, backend development and software engineering fundamentals.
+## Connect with me
+
+<a href="https://www.linkedin.com/in/leandro-lopez-03506037a/">
+  <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Leandro Lopez
+</a>
+&nbsp;
+<a href="mailto:leandrobenjaminnn@gmail.com">
+  <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> leandrobenjaminnn@gmail.com
+</a>
