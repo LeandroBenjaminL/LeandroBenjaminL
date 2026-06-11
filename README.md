@@ -44,6 +44,7 @@ I believe in **clean architecture**, **containerized everything**, and **documen
 | Proyecto | Demo | Stack |
 |----------|------|-------|
 | [⚡ Datlas](https://github.com/LeandroBenjaminL/datlas) — Data cleaning & analysis platform | [🌐 Live Demo](https://leandrobenjaminl.github.io/datlas/) | FastAPI + Pandas + PostgreSQL + Docker + Astro |
+| [🪙 Crypto Tracker](https://github.com/LeandroBenjaminL/crypto-tracker) — Cryptocurrency tracking CLI + dashboard | [🌐 Live Demo](https://leandrobenjaminl.github.io/crypto-tracker/) | Python + FastAPI + PostgreSQL + Docker + Streamlit |
 | [🌐 Portfolio](https://github.com/LeandroBenjaminL/portfolio) — Personal portfolio | [🌐 Live Site](https://leandrobenjaminl.github.io/portfolio/) | Astro + TypeScript + GitHub Pages |
 
 ---
@@ -56,6 +57,8 @@ I believe in **clean architecture**, **containerized everything**, and **documen
       <h3 align="center">🪙 Crypto Tracker</h3>
       <p align="center">
         <a href="https://github.com/LeandroBenjaminL/crypto-tracker">View Repo</a>
+        ·
+        <a href="https://leandrobenjaminl.github.io/crypto-tracker/" target="_blank"><strong>🌐 Live Demo</strong></a>
       </p>
       <p><strong>CLI + API + Dashboard</strong> para trackear criptomonedas. Pipeline ETL con PostgreSQL, cache inteligente, Docker multi-entrypoint y CI/CD con GitHub Actions.</p>
       <p align="center">
