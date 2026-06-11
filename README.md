@@ -43,7 +43,7 @@ I believe in **clean architecture**, **containerized everything**, and **documen
 
 | Proyecto | Demo | Stack |
 |----------|------|-------|
-| [⚡ Datlas](https://github.com/LeandroBenjaminL/datlas) — Data cleaning & analysis platform | [🌐 Live Demo](https://datlas.onrender.com) | FastAPI + Pandas + PostgreSQL + Docker + Astro |
+| [⚡ Datlas](https://github.com/LeandroBenjaminL/datlas) — Data cleaning & analysis platform | [🌐 Live Demo](https://leandrobenjaminl.github.io/datlas/) | FastAPI + Pandas + PostgreSQL + Docker + Astro |
 | [🌐 Portfolio](https://github.com/LeandroBenjaminL/portfolio) — Personal portfolio | [🌐 Live Site](https://leandrobenjaminl.github.io/portfolio/) | Astro + TypeScript + GitHub Pages |
 
 ---
@@ -71,7 +71,7 @@ I believe in **clean architecture**, **containerized everything**, and **documen
       <p align="center">
         <a href="https://github.com/LeandroBenjaminL/datlas">View Repo</a>
         ·
-        <a href="https://datlas.onrender.com" target="_blank"><strong>🌐 Live Demo</strong></a>
+        <a href="https://leandrobenjaminl.github.io/datlas/" target="_blank"><strong>🌐 Live Demo</strong></a>
       </p>
       <p><strong>Data cleaning & analysis platform.</strong> Subí un CSV, detecta nulos/outliers/duplicados, explorá patrones y exportá resultados. FastAPI + Pandas + Astro + Docker.</p>
       <p align="center">
