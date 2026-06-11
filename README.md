@@ -39,6 +39,15 @@ I believe in **clean architecture**, **containerized everything**, and **documen
 
 ---
 
+## 🚀 Live Demos
+
+| Proyecto | Demo | Stack |
+|----------|------|-------|
+| [⚡ Datlas](https://github.com/LeandroBenjaminL/datlas) — Data cleaning & analysis platform | [🌐 Live Demo](https://datlas.onrender.com) | FastAPI + Pandas + PostgreSQL + Docker + Astro |
+| [🌐 Portfolio](https://github.com/LeandroBenjaminL/portfolio) — Personal portfolio | [🌐 Live Site](https://leandrobenjaminl.github.io/portfolio/) | Astro + TypeScript + GitHub Pages |
+
+---
+
 ## 📌 Pinned Projects
 
 <table>
@@ -61,6 +70,8 @@ I believe in **clean architecture**, **containerized everything**, and **documen
       <h3 align="center">⚡ Datlas</h3>
       <p align="center">
         <a href="https://github.com/LeandroBenjaminL/datlas">View Repo</a>
+        ·
+        <a href="https://datlas.onrender.com" target="_blank"><strong>🌐 Live Demo</strong></a>
       </p>
       <p><strong>Data cleaning & analysis platform.</strong> Subí un CSV, detecta nulos/outliers/duplicados, explorá patrones y exportá resultados. FastAPI + Pandas + Astro + Docker.</p>
       <p align="center">
@@ -90,6 +101,8 @@ I believe in **clean architecture**, **containerized everything**, and **documen
       <h3 align="center">🌐 Portfolio</h3>
       <p align="center">
         <a href="https://github.com/LeandroBenjaminL/portfolio">View Repo</a>
+        ·
+        <a href="https://leandrobenjaminl.github.io/portfolio/" target="_blank"><strong>🌐 Live Site</strong></a>
       </p>
       <p><strong>Personal portfolio</strong> built with Astro + GitHub Pages. Static, fast, and clean.</p>
       <p align="center">
