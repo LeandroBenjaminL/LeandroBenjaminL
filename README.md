@@ -193,7 +193,7 @@ DevOps (K8s)    █████░░░░░░░░░░░░░░░░�
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leandro-lopez-03506037a/">
+  <a href="https://www.linkedin.com/in/leandrobackend/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:leandrobenjaminnn@gmail.com">
